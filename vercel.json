@@ -6,6 +6,5 @@
       "use": "@vercel/static"
     }
   ],
-  "outputDirectory": ".",
-  "framework": "none"
+  "outputDirectory": "."
 }
